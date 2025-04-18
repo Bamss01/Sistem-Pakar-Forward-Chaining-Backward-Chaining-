@@ -1,1 +1,1 @@
-# Sistem-Pakar-Forward-Chaining-Backward-Chaining-
+Sistem Pakar (Forward Chaining, & Backward Chaining)
